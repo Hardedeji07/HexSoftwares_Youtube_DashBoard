@@ -35,4 +35,5 @@ Before running the dashboard, you will need:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/yourusername/youtube-dashboard.git](https://github.com/yourusername/youtube-dashboard.git)
-   cd youtube-dashboard
+   cd youtube-dashboard.
+   
